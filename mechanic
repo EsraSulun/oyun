@@ -1,4 +1,6 @@
+<<<<<<< HEAD
 hareketler(x,y){
+>>>>>>> e5e3c42817375597c4652e723e583fa81a4c96c0
 a=x;
 b=y;
 }
