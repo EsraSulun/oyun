@@ -1,4 +1,4 @@
-hareketlere(x,y){
+hareketler(x,y){
 a=x;
 b=y;
 }
