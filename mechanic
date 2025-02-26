@@ -1,4 +1,4 @@
-hareketlere(x,y){
+hareketlerimiz(x,y){
 a=x;
 b=y;
 }
